@@ -1,6 +1,5 @@
 # Data-Science Gym
-This repository contains a collection of useful exercises to keep up to date with the world of data science and learn new skills.
-I believe that best way to learn new tools and skills is to use it so when I need to do it I prepare some execrises.
+Questa repository raccoglie una serie di esercizi che ho conservato nel corso del tempo e che ritengo siano un punto di partenza valido per imparare gli argomenti di riferimento.
 
 ## Section A: ML & Data analysis - General overview
 
